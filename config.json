@@ -1,0 +1,24 @@
+{
+    "bot_token": "MTExMTc0NzM4ODI5NDU3ODIyNg.GXUFWk.BaUbh0G7xy0eOxsulhlFlG9J5xe5zHpVzHxLq8",
+    "bot_status": "Booster Bot To .gg/novahub, Cheap Boosters And More.",
+    "capmonster_key": "639cf90f6987bc8858b80d17ce72fb53",
+    "proxyless": true,
+    "field_name_invite": "Discord Server Link",
+    "change_server_nick": true,
+    "server_nick": "NovaBoost",
+    "guildID": 1097212894195757141,
+    "ownerID": [
+        856393512718041098,
+        123,
+        123,
+        123
+    ],
+    "adminID": [
+        123,
+        123,
+        1055580022838141149
+    ],
+    "order_log_webhook": "https://discord.com/api/webhooks/1111750196024574132/E5M4q_AsNNZKu9-xZcHQSG5v6LXIo2jMf5IHx_gx5Bh0uvho-F1leG7iUfOg8d6Ar4eo",
+    "boost_log_webhook": "https://discord.com/api/webhooks/1111750028927701015/iTbpCaW6I12YJHusTC9Cd3DeiwXQHc7MMU7vn-ew2DnmcJ_XGZjrvYGn3MmAMQMLwDWo",
+    "boost_failed_log_webhook": "https://discord.com/api/webhooks/1111750117385576600/hLePOou4GFCAuUTdAq4lcD9C2F5Wfk2jaH6EKpIG3CDCvqaxKilB2_dET70zO91KsXwd"
+}

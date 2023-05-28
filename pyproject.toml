@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "repl_nix_boostup-boost-bot"
+version = "0.1.0"
+description = ""
+authors = ["Replit user <<>>"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+colorama = "^0.4.6"
+discord = "^2.1.0"
+discord-webhook = "^1.0.0"
+Flask = "^2.2.2"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
